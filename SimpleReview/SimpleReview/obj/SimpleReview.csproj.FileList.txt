@@ -1,0 +1,7 @@
+.\bin\Debug\SimpleReview.dll
+.\bin\Debug\SimpleReview.pdb
+.\bin\Debug\Microsoft.SharePoint.Search.dll
+.\bin\Debug\Microsoft.SharePoint.Search.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SimpleReview.dll
+obj\Debug\SimpleReview.pdb
